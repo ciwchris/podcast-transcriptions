@@ -1,11 +1,11 @@
 [Ep. 76 – Contrivance of Humans (#NoEstimates)](http://www.thisAgilelife.com/76/)
 =============================================
 
-Released: Sunday, March 15th, 2015
+Released: March 15th, 2015
 
 Hosts: John Sextro, Nate McKie and Lee McCauley
 
-Special Guest: Woody Zuill
+Guest: Woody Zuill
 
 **This Agile Life:** Can you give an introduction to the topic of #noestimates and the idea of #noestimates
 
